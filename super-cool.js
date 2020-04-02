@@ -2,6 +2,10 @@ function coolFunctionBro() {
     return null;
 }
 
+function coolestFunction() {
+    return coolestFunction();
+}
+
 // Starting point
 // master  A - B - C
 // cooler-function  \- D - E
