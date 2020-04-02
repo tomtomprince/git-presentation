@@ -1,0 +1,3 @@
+function coolFunctionBro() {
+    return null;
+}
