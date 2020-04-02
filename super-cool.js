@@ -3,6 +3,6 @@ function coolFunctionBro() {
 }
 
 function coolerFunction() {
-    // 1st commit
-    return coolerFunction();
+    // 2nd commit
+    return coolFunctionBro();
 }
